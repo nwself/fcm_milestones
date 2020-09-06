@@ -4,4 +4,4 @@ Simple webpage to track which milestones you have in a game of [Food Chain Magna
 
 This repo also contains many image files for milestones, employees, etc. under `img`.
 
-Also, there are files for using [http://playingcards.io/](playingcards.io) to play FCM under `playingcardsio`.
+Also, there are files for using [playingcards.io](http://playingcards.io/) to play FCM under `playingcardsio`.
